@@ -75,3 +75,12 @@ wsl --shutdown
 ## Referências
 
 - https://learn.microsoft.com/pt-br/windows/wsl/wsl-config
+
+
+## Navegação
+
+- [Construção dos ambientes de desenvolvimento com WSL](README.md)
+- [Debian Docker](DebianDocker.md)
+- [WSL2 Forward Port](ForwardPort.md)
+- [Owncloud](owncloud.md)
+- [CaddyReverseProxy](CaddyReverseProxy.md)
