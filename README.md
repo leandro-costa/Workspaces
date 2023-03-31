@@ -36,16 +36,16 @@ wsl --export Debian DebianTemplate
 ```
 - Importar template para novo WSL
 ```console
-wsl --import DebianNode DebianNode DebianTemplate
+wsl --import DebianNode DebianNodeFolder DebianTemplate
 ```
 ```console
-wsl --import DebianJava DebianJava DebianTemplate
+wsl --import DebianJava DebianJavaFolder DebianTemplate
 ```
 ```console
-wsl --import DebianC DebianC DebianTemplate
+wsl --import DebianC DebianCFolder DebianTemplate
 ```
 ```console
-wsl --import DebianMySQL DebianMySQL DebianTemplate
+wsl --import DebianMySQL DebianMySQLFolder DebianTemplate
 ```
 
 ## Executando ambientes
