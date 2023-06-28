@@ -35,7 +35,8 @@ OWNCLOUD_TRUSTED_DOMAINS=localhost
 ADMIN_USERNAME=admin
 ADMIN_PASSWORD=admin
 HTTP_PORT=8080
-EOF```
+EOF
+```
 
 substituir localhost pelo ip
 
